@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme for dark mode -->
+    <style name="Base.Theme.Taskmanager" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Dark mode colors -->
+        <item name="colorPrimary">#BB86FC</item> <!-- Lighter purple for dark mode -->
+        <item name="colorOnPrimary">#000000</item>
+        <item name="colorSurface">#121212</item>
+        <item name="colorOnSurface">#FFFFFF</item>
+        <item name="colorOutline">#B0BEC5</item> <!-- Light gray for borders -->
+    </style>
+</resources>

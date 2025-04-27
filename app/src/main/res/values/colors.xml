@@ -1,0 +1,4 @@
+<resources>
+    <color name="purple_500">#6200EE</color> <!-- Primary color for light mode -->
+    <color name="purple_200">#BB86FC</color> <!-- Lighter primary for dark mode -->
+</resources>
